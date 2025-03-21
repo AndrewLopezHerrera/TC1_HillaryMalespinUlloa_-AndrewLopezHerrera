@@ -1,0 +1,7 @@
+a. Nombre del curso: Compiladores e Intérpretes
+b. Número de semestre y año lectivo: I Semestre 2025
+c. Nombre de los Estudiantes: Hillary Mallespin Ulloa y Andrew López Herrera
+d. Número de carnet de los estudiantes: 2021 y 2021062132 (respectivamente)
+e. Número de tarea: 1
+f. Fecha de entrega: Viernes 28 de marzo del 2025
+g. Estatus de la entrega: [Deplorable|Regular|Buena|MuyBuena|Excelente|Superior]
